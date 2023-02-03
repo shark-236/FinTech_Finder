@@ -19,7 +19,7 @@ Along with the above program, this application also makes use of Ganache.
 To check your current Python version, run the following code in your terminal:  
 python --version  
 
-To check if the aforementioned packages are installed on your local machine, use the following code: 
+To check if the aforementioned packages are installed on your local machine, use the following code:   
 pip show streamlit  
 pip show web3  
 
