@@ -1,4 +1,4 @@
-# Module_19_Challenge
+# FinTech Finder
 Goal: To create a platform called "FinTech Finder" which is an application that customers use to find, hire, and pay fintech professionals (based on their wage rates). This application integrates to the Ethereum network (through Ganache) to instantly pay hired professionals in ETH. This is all possible through a web application created using Streamlit. 
 
 ---
